@@ -7,6 +7,7 @@ Uso IA e dados para resolver problemas reais de negócio, com foco em automaçõ
 
 - **[support-agent-n8n](https://github.com/arthur-cmarques/support-agent-n8n)**: agente de triagem e resposta de suporte (n8n + LLM + RAG) que classifica o ticket, responde citando a política e escala para um humano quando não deve decidir sozinho. Avaliado em 44 tickets rotulados à mão: 0 de 19 casos de risco respondidos sozinhos, com as limitações medidas e documentadas.
 - **[mapa-saude-campinas](https://github.com/arthur-cmarques/mapa-saude-campinas)**: painel com as UBS, UPAs e hospitais do SUS em Campinas, com dados do CNES e do Plano Municipal de Saúde. Projeto de grupo da disciplina de Bancos de Dados Não Relacionais. Pipeline em Python, MongoDB, testes automatizados e painel publicado no [GitHub Pages](https://arthur-cmarques.github.io/mapa-saude-campinas/).
+- **[grafos-redes-sociais](https://github.com/arthur-cmarques/grafos-redes-sociais)**: comparação de grafos sintéticos (Erdős–Rényi, Barabási–Albert, Watts–Strogatz) com a rede real Facebook ego (SNAP), em Python e NetworkX. Trabalho em grupo da disciplina de Grafos e Redes Sociais; a versão 2.0 corrige erros do trabalho entregue, com errata documentada.
 
 ## Tecnologias
 
